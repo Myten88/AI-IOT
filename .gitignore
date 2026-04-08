@@ -1,0 +1,4 @@
+# Env file (API-nycklar)
+.env
+__pycache__/
+*.pyc
